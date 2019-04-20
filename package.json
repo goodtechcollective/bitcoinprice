@@ -1,0 +1,17 @@
+{
+	"name": "helloa8",
+	"version": "1.0.0",
+	"description": "example a8 function",
+	"main": "func.js",
+	"author": "",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"@autom8/fdk": "^0.2.5",
+		"@autom8/js-a8-fdk": "^0.3.0",
+		"asciichart": "^1.5.7",
+		"ccxt": "^1.18.480",
+		"imgur": "^0.3.1",
+		"ololog": "^1.1.121",
+		"text2png": "^2.1.0"
+	}
+}
