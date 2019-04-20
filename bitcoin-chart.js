@@ -1,8 +1,8 @@
 "use strict";
 
-const ccxt       = require ('ccxt')
+const ccxt = require ('ccxt')
 const asciichart = require ('asciichart')
-const log        = require ('ololog').configure ({ locate: false })
+const log = require ('ololog').configure ({ locate: false })
 const text2png = require('text2png')
 const imgur = require('imgur')
 imgur.setClientId('947ba3967a16848')

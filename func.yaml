@@ -1,6 +1,6 @@
 schema_version: 20180708
 name: goodtech.bitcoinprice
-version: 0.0.23
+version: 0.0.24
 runtime: node
 entrypoint: node func.js
 format: http-stream
