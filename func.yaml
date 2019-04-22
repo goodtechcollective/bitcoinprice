@@ -1,9 +1,10 @@
 schema_version: 20180708
 name: goodtech.bitcoinprice
-version: 0.0.24
+version: 0.0.31
 runtime: node
 entrypoint: node func.js
 format: http-stream
 timeout: 30
 idle_timeout: 30
 memory: 512
+build_image: autom8network/node-c:latest
